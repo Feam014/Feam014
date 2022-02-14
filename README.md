@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feam014 or Kings
 - 👀 I’m interested in Game Deving
-- 🌱 I’m currently learning HTML and CsSS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Basically nothing right now
 
 - I use C#, Unity or Python
